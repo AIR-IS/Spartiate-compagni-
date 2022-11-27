@@ -55,7 +55,10 @@ header
     justify-content: space-between;
     align-items: flex-end;
 }
-
+#retour
+{
+    margin-left: 5px;
+}
 #titre_principal
 {
     display: flex;
@@ -119,13 +122,13 @@ nav a:hover
 }
 
 /* Bannière */
-
+/*
 #banniere_image
 {
     margin-top: 15px;
     height: 200px;
     border-radius: 5px;
-    background: url('images/sanfrancisco.jpg') no-repeat;
+    background: url('images/DSC_5192.jpg') no-repeat;
     position: relative;
     box-shadow: 0px 4px 4px #1c1a19;
     margin-bottom: 25px;
@@ -136,7 +139,7 @@ nav a:hover
     position: absolute;
     bottom: 0;
     border-radius: 0px 0px 5px 5px;
-    width: 99.5%;
+    width: 80.5%;
     height: 33px;
     padding-top: 15px;
     padding-left: 4px;
@@ -145,7 +148,7 @@ nav a:hover
     font-size: 0.8em;
     
 }
-
+*/
 .bouton_rouge
 {
     height: 25px;
