@@ -194,7 +194,11 @@ article
     vertical-align: middle;
     margin-right: 8px;
 }
-
+summary
+{
+    display: list-item;
+    
+}
 article p
 {
     font-size: 0.8em;
